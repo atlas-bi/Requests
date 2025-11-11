@@ -191,7 +191,7 @@
     "concurrently": "^8.0.0",
     "cypress": "^13.0.0",
     "cz-conventional-changelog": "3.3.0",
-    "esbuild": "^0.19.0",
+    "esbuild": "^0.25.0",
     "eslint": "^8.38.0",
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-cypress": "^2.13.2",
@@ -229,5 +229,5 @@
       "npm run format"
     ]
   },
-  "version": "1.1.15"
+  "version": "1.1.16"
 }
